@@ -1,0 +1,16 @@
+/home/oliverhughes/Programming/C#/CaveGame/bin/Debug/net5.0/CaveGame
+/home/oliverhughes/Programming/C#/CaveGame/bin/Debug/net5.0/CaveGame.deps.json
+/home/oliverhughes/Programming/C#/CaveGame/bin/Debug/net5.0/CaveGame.runtimeconfig.json
+/home/oliverhughes/Programming/C#/CaveGame/bin/Debug/net5.0/CaveGame.runtimeconfig.dev.json
+/home/oliverhughes/Programming/C#/CaveGame/bin/Debug/net5.0/CaveGame.dll
+/home/oliverhughes/Programming/C#/CaveGame/bin/Debug/net5.0/ref/CaveGame.dll
+/home/oliverhughes/Programming/C#/CaveGame/bin/Debug/net5.0/CaveGame.pdb
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.csproj.AssemblyReference.cache
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.AssemblyInfoInputs.cache
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.AssemblyInfo.cs
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.csproj.CoreCompileInputs.cache
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.dll
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/ref/CaveGame.dll
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.pdb
+/home/oliverhughes/Programming/C#/CaveGame/obj/Debug/net5.0/CaveGame.genruntimeconfig.cache
